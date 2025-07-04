@@ -90,7 +90,6 @@
   },
 "scripts": {
   "start": "node index.js"
-},
 
   },
   "repository": {
